@@ -1,9 +1,9 @@
-# MyMovie
+# MyMovies
 Finding movies using OMDb API
 
 ## Entorno de desarrollo
-- iOS 12.4
-- Xcode 10.3
+- iOS 11.0
+- Xcode 11.4.1
 - Swift 5
 
 ## Features
